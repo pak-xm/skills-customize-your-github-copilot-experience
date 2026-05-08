@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "sqlalchemy-database-integration",
+      "title": "Database Integration with SQLAlchemy",
+      "description": "Add persistent database storage to your FastAPI API using SQLAlchemy ORM and SQLite—transform your prototype into a fully functional application",
+      "path": "assignments/sqlalchemy-database-integration",
+      "dueDate": "2026-05-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
